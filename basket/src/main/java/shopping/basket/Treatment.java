@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @author David Kossivi Sossavi
  *
  */
-public class Treatement {
+public class Treatment {
 
 	public static final String CURRENCY = "CHF  ";
 
